@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/action_logout"
+        android:title="@string/action_pdf_1"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        />
+    <item android:id="@+id/action_pdf_2"
+        android:title="@string/action_pdf_2"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        />
+    <item android:id="@+id/action_pdf_3"
+        android:title="@string/action_pdf_3"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        />
+    <item android:id="@+id/action_pdf_4"
+        android:title="@string/action_pdf_4"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_popup_disk_full"
+        />
+</menu>

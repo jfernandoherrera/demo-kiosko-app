@@ -8,21 +8,13 @@ import com.jeduca.plantilla.activities.app.Application;
 
 public class AppTextView extends TextView {
 
-
     public AppTextView(Context context, AttributeSet attrs) {
 
-        this(context, attrs, 0);
-
-    }
-
-    public AppTextView(Context context, AttributeSet attrs, int defStyle) {
-
-        super(context, attrs, defStyle);
+        super(context, attrs);
 
         Typeface typeface = ((Application)context.getApplicationContext()).getTypeface();
 
         setTypeface(typeface);
 
     }
-
 }

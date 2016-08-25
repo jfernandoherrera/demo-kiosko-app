@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Plantilla</string>
+    <string name="action_pdf_1">pdf1</string>
+    <string name="action_pdf_2">pdf2</string>
+    <string name="action_pdf_3">pdf3</string>
+    <string name="action_pdf_4">pdf4</string>
 </resources>
